@@ -1,9 +1,8 @@
+## Hello!👋🏻 Welcome to my profile.
 
-![bg2](https://user-images.githubusercontent.com/66270940/127012207-c0b277fa-d746-4913-b821-1af0784ca57f.jpg)
+![bg2](https://user-images.githubusercontent.com/66270940/127021980-be603259-6223-4b57-a62a-07730d03a348.jpg)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=LGRosi&color=2685BF)
-
-## Hello!👋🏻 Welcome to my profile.
 
 ### I'm Lucas Rosi, web developer. I have experience in the design and construction of applications and web pages.
 
