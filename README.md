@@ -3,7 +3,15 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=LGRosi&color=2685BF)
 
-## Hello!👋 I'm Lucas Rosi, web developer. I have experience in the design and construction of applications and web pages.
+## Hello!👋🏻 Welcome to my profile.
+
+### I'm Lucas Rosi, web developer. I have experience in the design and construction of applications and web pages.
+
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/lucas-gonzalo-rosi](https://www.linkedin.com/in/lucas-gonzalo-rosi/)
+
+
 
 
 
