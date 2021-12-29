@@ -8,8 +8,13 @@
 
 ## 📬 Get in touch
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 - LinkedIn: [linkedin.com/in/lucas-gonzalo-rosi](https://www.linkedin.com/in/lucas-gonzalo-rosi/)
+
+## Languages and tools:
+
+<div style="display: inline-block"><br />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+</div>
 
 
 
