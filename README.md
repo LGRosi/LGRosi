@@ -2,7 +2,7 @@
 
 ![bg2](https://user-images.githubusercontent.com/66270940/127021980-be603259-6223-4b57-a62a-07730d03a348.jpg)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=LGRosi&color=2685BF)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ![GitHub Views](https://komarev.com/ghpvc/?username=LGRosi&color=2685BF)
 
 ### I'm Lucas Rosi, web developer. I have experience in the design and construction of applications and web pages.
 
