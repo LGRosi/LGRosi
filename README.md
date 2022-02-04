@@ -1,6 +1,6 @@
 ## Hello!👋🏻 Welcome to my profile.
 
-![bg2](https://user-images.githubusercontent.com/66270940/127021980-be603259-6223-4b57-a62a-07730d03a348.jpg)
+![bg2](https://ibb.co/fntgJsb)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=LGRosi&color=2685BF)
 
