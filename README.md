@@ -2,6 +2,11 @@
 ### I have experience in the design and construction of applications and web pages.
 <br />
 
+<div>
+    <img src="https://user-images.githubusercontent.com/66270940/152661736-8606d52e-ae24-4b9e-b35f-117042ae3795.jpg">
+</div>
+
+
 ## Languages and tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGRosi&layout=compact&theme=github_dark)](https://github.com/LGRosi/github-readme-stats)
