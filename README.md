@@ -9,8 +9,6 @@
 
 ## Languages and tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LGRosi&layout=compact&theme=github_dark)](https://github.com/LGRosi/github-readme-stats)
-
 <div style="display: inline_block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="30" width="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="30" width="40" />
